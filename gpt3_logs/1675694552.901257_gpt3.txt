@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+No, alarm permits are not transferable.  Section 4 of the passage states that alarm permits are not transferable. Additionally, the passage states that permits are valid for 12 months and must be renewed annually. Finally, the passage states that amendments to valid permits do not require a filing fee.  Yes, alarm permits are transferable. The permit becomes effective on the date the completed application is received, and will be mailed to the Billing Address you provide. Please print your information clearly.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+According to the passage, alarm permits are not transferable. Additionally, the passage states that permits are valid for 12 months and must be renewed annually. Finally, the passage states that amendments to valid permits do not require a filing fee.

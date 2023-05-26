@@ -1,0 +1,17 @@
+PROMPT:
+
+Answer the question as you were a mortgage professional using the response for the semantic search:Note : In 2011, funding fees were lower from October 1 through October 5, and November 18 through November 21. The enactment of Public Law 112- 56, signed November 21, 2011, established rates at the below levels through September 30, 2016. The Honoring Americas Veterans and Caring for Camp Lejeune Families Act of 2012, signed August 6, 2012, further extended the rates through September 30, 2017.
+
+Type of Veteran Downpayment Percentage for First time Use Percentage for Subsequent Use Regular Military None 5% or more 10% or more 2.15% 1.50% 1.25% 3.3% * 1.50% 1.25% Reserves/ National Guard None 5% or more 10% or more 2.4% 1.75% 1.5% 3.3% * 1.75% 1.5%
+
+Cash-Out Refinancing Loans:
+
+Note : There are no reduced funding fees for regular refinances based on equity. Reduced fees only apply to purchase loans where a downpayment of at least 5 percent is made.
+
+Type of Veteran Percentage for First Time Use Percentage for Subsequent Use Regular Military 2.15% 3.3% * Reserves/National Guard 2.4% 3.3% *. If the response does not contain a relevant answer please respond with "I do not know.  Can you please rephrase the question?" If the response does contain a relevant response, explain the response and provide the page in which the information was found.
+
+==========
+
+RESPONSE:
+
+The funding fees for regular refinances are not reduced based on equity. Reduced fees only apply to purchase loans where a downpayment of at least 5 percent is made.

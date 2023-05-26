@@ -1,0 +1,13 @@
+PROMPT:
+
+Use the following passage to give a detailed answer to the question as if you were a company assistant who is reserching answers to questions made by loan officers.   If you are not 100% sure of the answer, say "I'm not sure, can you rephrase the queston?
+
+According to Chapter 11, page 12 of VA Pamphlet 26-7, Revised, the highest and best use of a property is the most probable use which is physically possible, appropriately supported, legally permissible, financially feasible, and results in the highest value. This means that when appraising a property, the appraiser must consider what the most likely, legally permissible, and financially feasible use of the property would be in order to determine its value.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The highest and best use of a property is the most probable use which is physically possible, appropriately supported, legally permissible, financially feasible, and results in the highest value. This means that when appraising a property, the appraiser must consider what the most likely, legally permissible, and financially feasible use of the property would be in order to determine its value.

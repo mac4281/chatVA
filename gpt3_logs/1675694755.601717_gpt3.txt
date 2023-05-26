@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The commercial alarm permit fee is $50.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The commercial alarm permit fee is $50. This fee is required in order to operate a commercial alarm system within the city limits. The permit must be renewed annually, and failure to do so may result in a fine.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+accept any gifts or gratuities from these entities, no matter how small. If a gratuity is offered, the volunteer should kindly reject the offer and report it to their supervisor. Occasionally, the City may sponsor celebratory events that rejoice in the efforts of volunteers. These events may include meals or small tokens of appreciation from the City that volunteers are free to accept.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+Volunteers should not accept any gifts or gratuities from entities they work with, no matter how small. If a gratuity is offered, the volunteer should kindly reject it and report it to their supervisor. Occasionally, the City may sponsor celebratory events that rejoice in the volunteers' efforts. These events may include meals or small tokens of appreciation from the City that volunteers are free to accept.

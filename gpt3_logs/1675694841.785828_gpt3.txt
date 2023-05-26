@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+A Commercial site permit fee is a fee charged by a city to a business for the right to develop a commercial site. This fee is used to pay for the costs of infrastructure and improvements related to the development, as well as to defray some of the costs of maintenance and operations once the development is complete. The fee may be levied as a tax or as an assessment, and is typically collected annually with a public hearing. In some cases, the fee may be collected through the sale of bonds or other debt instruments.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+A commercial site permit fee is a fee charged by a city to a business for the right to develop a commercial site. This fee is used to pay for the costs of infrastructure and improvements related to the development, as well as to defray some of the costs of maintenance and operations once the development is complete. The fee may be levied as a tax or as an assessment, and is typically collected annually with a public hearing. In some cases, the fee may be collected through the sale of bonds or other debt instruments.

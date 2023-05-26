@@ -1,0 +1,27 @@
+PROMPT:
+
+Answer the question as you were a mortgage professional using the response for the semantic search:*The higher subsequent use fee does not apply to these types of loans if the veterans only prior use of entitlement was for a manufactured home loan.
+
+Type of Loan Percentage for Either Type of Veteran Whether First Time or Subsequent Use IRRRLs .50% Manufactured Home Loans (NOT permanently affixed) 1.00% Loan Assumptions .50%
+
+Continued on next page
+
+8. The VA Funding Fee, Continued
+
+Lenders must remit the VA funding fee via the VA FFPS; within 15 calendar days of loan closing.
+
+Lenders paying the fee more than 15 days after loan closing will automatically be assessed a four percent late fee. Fees paid more than 30 days late will automatically be assessed an interest charge in addition to late fee.
+
+A refund is appropriate if:
+
+j. Refunding Overpayments to the Veteran
+
+ an exempt veteran paid a funding fee, or  a miscalculation of the fee caused an overpayment.
+
+Using the VA FFPS, lenders can make appropriate corrections that may result in refunds being due.. If the response does not contain a relevant answer please respond with "I do not know.  Can you please rephrase the question?" If the response does contain a relevant response, explain the response and provide the page in which the information was found.
+
+==========
+
+RESPONSE:
+
+The higher subsequent use fee does not apply to these types of loans if the veterans only prior use of entitlement was for a manufactured home loan.

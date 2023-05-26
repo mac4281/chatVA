@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+1. Log into Encompass LO Connect as an Administrator. 2. From the Encompass Admin Portal, select COMPANY/USER SETUP. 3. Select Services Management. 4. Select a service category on the Services Management page, and then select New Manual Setup. 5. On the Add New Manual Setup window, select a provider. 6. Select Create. The New Service Setup page displays. 7. Enter a unique name for this setup in the Service Setup Name field. 8. Enter a description in the Service Setup Description field. 9. In the Readiness Conditions section, define the conditions that, when met, enable the rule to trigger. 10. In the Users section navigate through the Organization hierarchy or the users list to select the Users who will use this setup. To move to a folder in the Organization, select the Down Arrow
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+1. Log into Encompass LO Connect as an Administrator. 2. From the Encompass Admin Portal, select COMPANY/USER SETUP. 3. Select Services Management. 4. Select a service category on the Services Management page, and then select New Manual Setup. 5. On the Add New Manual Setup window, select a provider. 6. Select Create. The New Service Setup page displays. 7. Enter a unique name for this setup in the Service Setup Name field. 8. Enter a description in the Service Setup Description field. 9. In the Readiness Conditions section, define the conditions that, when met, enable the rule to trigger. 10. In the Users section navigate through the Organization hierarchy or the users list to select the Users who will use this setup. To move to a folder in the Organization, select the Down Arrow

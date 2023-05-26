@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The commercial alarm permit fee is $50.00.  The commercial alarm permit fee is $72.  The commercial alarm permit fee is $72.00.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The commercial alarm permit fee is $50.00. This fee is for the permit itself and does not include the cost of installation or any other related fees. The commercial alarm permit fee is $72. This fee is for the permit itself and does not include the cost of installation or any other related fees. The commercial alarm permit fee is $72.00. This fee is for the permit itself and does not include the cost of installation or any other related fees.

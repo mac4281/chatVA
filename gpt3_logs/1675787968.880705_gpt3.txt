@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+To enable and configure affordability controls: 1. From the Encompass Admin Portal, select Opportunities Setup. 2. Select Affordability Management. 3. On the Affordability Controls page, set the toggle to On to enable the controls or Off to disable them. 4. Set the maximum Housing Ratio and Debt Ratio limitations for each product type. The selection is saved after you enter the value.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+1. From the Encompass Admin Portal, select Opportunities Setup. 2. Select Affordability Management. 3. On the Affordability Controls page, set the toggle to On to enable the controls or Off to disable them. 4. Set the maximum Housing Ratio and Debt Ratio limitations for each product type. The selection is saved after you enter the value.

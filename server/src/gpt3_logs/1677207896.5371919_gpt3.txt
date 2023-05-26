@@ -1,0 +1,13 @@
+PROMPT:
+
+Use the following passage to give a detailed answer to the question as if you were a company assistant who is reserching answers to questions made by loan officers.   If you are not 100% sure of the answer, say "I'm not sure, can you rephrase the queston?
+
+According to the VA Pamphlet 26-7, the maximum number of VA loans that can be taken out at one time is four. This means that two Veterans may purchase or construct residential property consisting of up to six family units (the basic four units plus one unit for each of the two Veterans), and one business unit.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The maximum number of VA loans that can be taken out at one time is four, according to the VA Pamphlet 26-7. This means that two Veterans may purchase or construct residential property consisting of up to six family units (the basic four units plus one unit for each of the two Veterans), and one business unit.

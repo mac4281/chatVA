@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following. If you are not 100% sure of the answer, say "I don't know":
+
+I don't know.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+I don't know.

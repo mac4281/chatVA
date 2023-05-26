@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The form you need to fill out in order to get a commercial alarm is the Alarm Permit Application. This form requires you to provide general information about the alarm, as well as your contact information and the contact information for two emergency contacts. You will also need to provide information about the alarm installation company and the alarm monitoring service.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Alarm Permit Application is the form you need to fill out in order to get a commercial alarm. This form requires you to provide general information about the alarm, as well as your contact information and the contact information for two emergency contacts. You will also need to provide information about the alarm installation company and the alarm monitoring service.

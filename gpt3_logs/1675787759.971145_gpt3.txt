@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The table below lists the Application View card names and shows the mapping to the corresponding Encompass input form. For detailed information about the data entry pages accessed via each card, click the links in the following table.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The table below lists the Application View card names and shows the mapping to the corresponding Encompass input form. For detailed information about the data entry pages accessed via each card, click the links in the following table. The table provides a mapping of Application View card names to corresponding Encompass input forms. The table includes links to detailed information about data entry pages accessed via each card.

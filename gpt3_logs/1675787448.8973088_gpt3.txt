@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The commercial site alarm service fee is $50.00.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The commercial site alarm service fee is $50.00. This fee is for the installation and monitoring of an alarm system at a commercial site. The fee includes the cost of the equipment and the monthly monitoring service.

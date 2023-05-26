@@ -1,0 +1,13 @@
+PROMPT:
+
+Use the following passage to give a detailed answer to the question as if you were a company assistant who is reserching answers to questions made by loan officers.   If you are not 100% sure of the answer, say "I'm not sure, can you rephrase the queston?
+
+According to Chapter 4, page 43 of the VA Pamphlet 26-7, the DTI requirement for VA loans is that the borrower's ETS date must be greater than 12 months from the projected date of closing in order for their active-duty income to be considered.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+According to the VA Pamphlet 26-7, the DTI requirement for VA loans is that the borrower's ETS date must be greater than 12 months from the projected date of closing in order for their active-duty income to be considered. This means that if a borrower's ETS date is less than 12 months from the projected date of closing, their active-duty income will not be considered when determining whether or not they qualify for a VA loan.

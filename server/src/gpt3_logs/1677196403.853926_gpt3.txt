@@ -1,0 +1,13 @@
+PROMPT:
+
+Use the following passage to give a detailed answer to the question as if you were a company assistant who is reserching answers to questions made by loan officers.   If you are not 100% sure of the answer, say "I'm not sure, can you rephrase the queston?
+
+According to Chapter 10, page 38 of VA Pamphlet 26-7, Revised, if a veteran is unable to pay for an appraisal requested by the lender for reconsideration, the RLC may require advance payment from the requester on future appraisals. Additionally, if the new lender does not participate in LAPP, the Veterans request to change lenders must be submitted to the RLC of jurisdiction and the RLC will issue the NOV.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+According to Chapter 10, page 38 of VA Pamphlet 26-7, Revised, if a veteran is unable to pay for an appraisal requested by the lender for reconsideration, the RLC may require advance payment from the requester on future appraisals. This means that if a veteran is having trouble paying for an appraisal, the RLC may require them to pay for future appraisals in advance. Additionally, if the new lender does not participate in LAPP, the Veterans request to change lenders must be submitted to the RLC of jurisdiction and the RLC will issue the NOV. This means that if a veteran wants to change lenders but the new lender does not participate in LAPP, they will have to submit a request to the RLC of jurisdiction, who will then issue the NOV.

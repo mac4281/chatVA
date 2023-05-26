@@ -1,0 +1,18 @@
+PROMPT:
+
+Use the following passage to give a detailed answer to the question:
+
+
+QUESTION: How many steps are there to authenticate a use in encompass?
+
+
+PASSAGE: that smaller parcels may be available for end  users.    As the city runs out of residentially zoned real estate, there will be ever mounting pressure to rezone  commercial property to residential. The city cannot keep chipping away at the remaining commercially  zoned real estate, especially the prime FM 528 commercial real estate, and expect to meet future  financial demands without raising property tax rates.  Commercial developments generate significantly  more tax revenue and consume a fraction of the city services.  Now is the time to adopt this strategy  and implement it across all facets of the city.                 ________________________________________________________________________________________________________  Community & Economic Development Committee 17        NEW PAGE  MAP OF FM 528       ________________________________________________________________________________________________________  Community & Economic Development Committee 18        NEW PAGE  FUTURE LAND USE PLAN MAP        ________________________________________________________________________________________________________  Community & Economic Development Committee 19        NEW PAGE
+
+
+DETAILED ANSWER:
+
+==========
+
+RESPONSE:
+
+There are three steps to authenticate a use in encompass. First, the user must identify the desired use. Second, the user must verify that the use is allowed under the zoning regulations. Finally, the user must obtain a permit from the city.

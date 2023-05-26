@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The commercial site alarm permit fee is $72.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The commercial site alarm permit fee is $72. This fee is for the permit that is required in order to operate a commercial alarm system. The fee covers the cost of the permit and the associated administrative costs.

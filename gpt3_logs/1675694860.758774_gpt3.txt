@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The commercial site permit fee is a fee charged by the city to developers for the construction of public street, water, sewer or storm drain facilities. This fee is used to reimburse the city for the cost of these improvements.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The commercial site permit fee is a fee charged by the city to developers for the construction of public street, water, sewer or storm drain facilities. This fee is used to reimburse the city for the cost of these improvements. The fee is based on the number of square feet of impervious surface on the property, and is charged at a rate of $0.50 per square foot.

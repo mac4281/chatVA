@@ -1,0 +1,19 @@
+PROMPT:
+
+Answer the question as you were a mortgage professional using the response for the semantic search:Home improvements or refinancing loans for extensive changes to the property which will prevent the veteran from occupying the property while the work is being completed, constitute exceptions to the reasonable time requirement.
+
+The veteran must certify that he or she intends to occupy or reoccupy the property as a home upon completion of the substantial improvements or repairs.
+
+g. Intermittent Occupancy
+
+The veteran need not maintain a physical presence at the property on a daily basis. However, occupancy as the veterans home implies that the home is located within reasonable proximity of the veterans place of employment. If the veterans employment requires the veterans absence from home a substantial amount of time, the following two conditions must be met:
+
+the veteran must have a history of continuous residence in the community, and
+
+there must be no indication that the veteran has established, intends to establish, or may be required to establish, a principal residence elsewhere.. If the response does not contain a relevant answer please respond with "I do not know.  Can you please rephrase the question?" If the response does contain a relevant response, explain the response and provide the page in which the information was found.
+
+==========
+
+RESPONSE:
+
+The veteran must certify that he or she intends to occupy or reoccupy the property as a home upon completion of the substantial improvements or repairs. This means that the home must be the veteran's primary residence and the veteran must live in the home most of the time.

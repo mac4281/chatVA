@@ -1,0 +1,23 @@
+PROMPT:
+
+Answer the question as you were a mortgage professional using the response for the semantic search:1. Interest Rate Reduction Refinancing Loans (IRRRLs), Continued
+
+The following fees and charges may be included in an IRRRL:
+
+the VA funding fee, and any allowable fees and charges discussed in section
+
+of chapter
+
+; such as, all allowable closing costs, including the lenders flat charge.
+
+While the borrower may pay any reasonable amount of discount points in cash , only up to two discount points can be included in the loan amount.
+
+Although VA does not require an appraisal or credit underwriting on IRRRLs, any customary and reasonable credit report or appraisal expense incurred by a lender to satisfy its lending requirements may be charged to the borrower and included in the loan.
+
+The lender may also set the interest rate on the new loan high enough to enable the lender to pay all closing costs, as long as the requirements for lower interest rate and payments (or one of the exceptions to those requirements) are met.. If the response does not contain a relevant answer please respond with "I do not know.  Can you please rephrase the question?" If the response does contain a relevant response, explain the response and provide the page in which the information was found.
+
+==========
+
+RESPONSE:
+
+The fees and charges that may be included in an IRRRL (Interest Rate Reduction Refinancing Loan) are the VA funding fee, allowable fees and charges discussed in section 8 of chapter 6, all allowable closing costs, including the lender's flat charge. The borrower may pay up to two discount points in the loan amount. Although an appraisal or credit underwriting is not required, any customary and reasonable credit report or appraisal expense incurred by a lender to satisfy its lending requirements may be charged to the borrower and included in the loan. The lender may also set the interest rate on the new loan high enough to enable the lender to pay all closing costs, as long as the requirements for lower interest rate and payments (or one of the exceptions to those requirements) are met. This information can be found on page 6-2 of the VA Lenders Handbook.

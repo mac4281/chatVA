@@ -1,0 +1,23 @@
+PROMPT:
+
+Answer the question as you were a mortgage professional using the response for the semantic search:Downpayment. The actual loan amount is allocated equally between the borrowers for purposes of calculating the funding fee, whether or not a downpayment is made, and regardless of where the funds for such a downpayment come from.
+
+Example. On a Veteran/non-Veteran loan, the non-Veteran makes a $5,000 (five percent) downpayment out of his cash resources, to purchase a $100,000 property, resulting in a $95,000 loan amount. The Veteran is a first-time homebuyer. The Veteran must pay a funding fee of $712.50, based on 1.5 percent of his/her $47,500 portion.
+
+If situations arise which are not addressed here, contact 1-877-827-3702 for assistance.
+
+2. Construction/Permanent Home Loans
+
+Change Date
+
+This chapter has been revised in its entirety
+
+a. The Basics
+
+The lender must obtain written approval from the borrower before each draw payment is provided to the builder. The loan will not be guaranteed until construction is complete and all Notice of Value (NOV) conditions are met.. If the response does not contain a relevant answer please respond with "I do not know.  Can you please rephrase the question?" If the response does contain a relevant response, explain the response and provide the page in which the information was found.
+
+==========
+
+RESPONSE:
+
+The lender must obtain written approval from the borrower before each draw payment is provided to the builder. The loan will not be guaranteed until construction is complete and all Notice of Value (NOV) conditions are met.

@@ -1,0 +1,19 @@
+PROMPT:
+
+Answer the question as you were a mortgage professional using the response for the semantic search:If called to active duty, a copy of the orders must accompany the SOS with the name and point of contact for the command or unit.
+
+The statement must clearly indicate that the applicant is an active reservist or National Guard member and not just in a control group (inactive status).
+
+If Veterans cannot locate proof of service, they can request military documents either through the National Archives, http://www.ebenefits.va.gov/, or by completing SF- 180, Request Pertaining to Military Records. The completed form should be submitted to the appropriate address shown. It should not be sent to VA.
+
+In many cases, VA internal systems will have sufficient information to make the eligibility determination for those who served on active duty. Lenders and Veterans should not delay requesting a COE pending receipt of requested military documents.
+
+5. Basic Eligibility Requirements
+
+This chapter has been revised in its entirety.. If the response does not contain a relevant answer please respond with "I do not know.  Can you please rephrase the question?" If the response does contain a relevant response, explain the response and provide the page in which the information was found.
+
+==========
+
+RESPONSE:
+
+The statement indicates that if an applicant is called to active duty, a copy of the orders must accompany the SOS with the name and point of contact for the command or unit. It also states that the applicant must clearly indicate that they are an active reservist or National Guard member and not just in a control group. If Veterans cannot locate proof of service, they can request military documents either through the National Archives or by completing SF-180, Request Pertaining to Military Records. The completed form should be submitted to the appropriate address shown. It should not be sent to VA. This information can be found on page 5 of the VA Lenders Handbook.

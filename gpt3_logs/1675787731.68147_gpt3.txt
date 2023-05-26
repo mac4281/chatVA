@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The commercial alarm permit fee is $72.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The commercial alarm permit fee in the City of Los Angeles is $72. This fee is used to cover the costs of processing and issuing alarm permits, as well as for enforcement of the alarm ordinance. The ordinance requires that all commercial alarm systems be registered with the city, and that permit fees be paid on an annual basis.

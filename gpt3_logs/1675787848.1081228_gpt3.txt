@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The third step in the new user registration process is to add user credentials. To add user credentials, select Add in the User Credentials section. On the Add User Credentials page, enter the Name and Description. To enable the selected users to override the company credentials, select Override company credentials. In the Users section, select the Search icon to search for specific users. Note: The administrator can select individual users, or they can add an entire organization. In the Search field ID, name, etc. field, enter the search criteria and then press Enter. The user list is filtered to display any results that match or contain the search criteria. Select the blue Arrow to move a user to the Added Users section. When you are done, select Save.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The third step in the new user registration process is to add user credentials. To add user credentials, select Add in the User Credentials section. On the Add User Credentials page, enter the Name and Description. To enable the selected users to override the company credentials, select Override company credentials. In the Users section, select the Search icon to search for specific users. Note: The administrator can select individual users, or they can add an entire organization. In the Search field ID, name, etc. field, enter the search criteria and then press Enter. The user list is filtered to display any results that match or contain the search criteria. Select the blue Arrow to move a user to the Added Users section. When you are done, select Save.

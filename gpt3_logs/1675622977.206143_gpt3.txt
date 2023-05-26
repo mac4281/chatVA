@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The goal of the economic development policy is to diversify the tax base through business attraction, retention, and expansion. The policy also aims to support and spearhead efforts to develop infrastructure to ensure that adequate sites are available for target business development. Additionally, the policy seeks to position Friendswood as a place for new and expanded business development and investment within the target industries of professional office, retail, commercial, and light industrial in concert with zoning and the permitted use table.  The goal of the economic development policy is to improve infrastructure and promote business development in the city. The policy includes actions to research and recommend infrastructure improvements, to monitor capital improvement projects, to consider special financing districts and tax increment financing tools, to reach out to residents and businesses, and to showcase the city to potential investors. The policy also includes a goal to fund and support the "economic development toolbox" which provides incentives and resources for businesses.  The goal of the economic development policy is to diversify the tax base, improve infrastructure, marketing, and incentives, and create partnerships to improve economic development performance.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The goal of the economic development policy is to diversify the tax base through business attraction, retention, and expansion. The policy also aims to support and spearhead efforts to develop infrastructure to ensure that adequate sites are available for target business development. Additionally, the policy seeks to position Friendswood as a place for new and expanded business development and investment within the target industries of professional office, retail, commercial, and light industrial in concert with zoning and the permitted use table. The policy includes actions to research and recommend infrastructure improvements, to monitor capital improvement projects, to consider special financing districts and tax increment financing tools, to reach out to residents and businesses, and to showcase the city to potential investors. The goal of these actions is to improve infrastructure and promote business development in the city. The policy also includes a goal to fund and support the "economic development toolbox" which provides incentives and resources for businesses. In summary, the goal of the economic development policy is to diversify the tax base, improve infrastructure, marketing, and incentives, and create partnerships to improve economic development performance.

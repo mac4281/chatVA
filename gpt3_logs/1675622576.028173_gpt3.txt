@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The fees associated with getting an alarm permit vary depending on the type of alarm and the classification of the alarm. The fees for a new alarm permit are as follows: Type 1 Alarm: $25 Type 2 Alarm: $50 Class A Alarm: $100 Class B Alarm: $200 Class C Alarm: $300  The fees associated with getting an alarm permit are as follows: -Residential site alarm permit fee is $36. -Commercial or financial institution site alarm permit fee is $72. -Educational/Government site alarm must be registered; but no permit fee is required. Permits are valid for 12 months and must be renewed annually. Amendments to valid permit require no filing fee. False Alarm Fees: -No fine will be assessed for the 1st, 2nd or 3rd false alarm in the preceding 12 month period. -$50 fine will be assessed for the 4th or 5th false alarm in the preceding 12 month period. -$75 fine will be assessed for the 6th or 7th false alarm in the preceding 12 month period. -$100 fine will be assessed for the 8th or more other false alarms in the preceding 12 month period.  The fees associated with getting an alarm permit are $36 for residential sites and $72 for commercial/financial sites.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The fees associated with getting an alarm permit vary depending on the type of alarm and the classification of the alarm, but are generally $36 for residential sites and $72 for commercial/financial sites. Permits are valid for 12 months and must be renewed annually. Amendments to valid permit require no filing fee. False alarm fees are as follows: no fine for the 1st, 2nd or 3rd false alarm in the preceding 12 month period; $50 fine for the 4th or 5th false alarm in the preceding 12 month period; $75 fine for the 6th or 7th false alarm in the preceding 12 month period; and $100 fine for the 8th or more other false alarms in the preceding 12 month period.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The commercial site permit fee is not mentioned in the passage.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The passage does not mention the commercial site permit fee.

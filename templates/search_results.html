@@ -1,0 +1,46 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Search Results for "{{ query }}"</h1>
+    <ul>
+        {{ results }}
+     
+    </ul>
+
+    {% if data_received %}
+  
+    <img src="{{url_for('static', filename='example_ios_ish.gif')}}" alt="Loading nothing" style="width:50px">
+    {% endif %}
+      <h3>Search Again?</h3>
+      <form method="get" action="{{ url_for('search') }}">
+        <input type="text" name="query">
+        <input type="submit" value="Search">
+      </form>
+</body>
+</html> -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Search Results</title>
+    <link rel="stylesheet" href="/static/style.css">
+  </head>
+  <body>
+    <img id="logo" src="/static/logo.png" alt="A description of the image">
+
+    <form action="/search" method="GET">
+      <input type="text" id="query" name="query" value="{{ query }}"style=" width:30vw;">
+      <input type="submit" value="search">
+    </form> 
+    <div id="results">
+        <h4>"{{ query }}"</h4>
+        <ul>
+            {{ results }}
+         
+        </ul>
+   
+    </div>
+  </body>
+</html>

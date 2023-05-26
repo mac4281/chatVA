@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The phone number to submit a permit application by fax is ___________________.  The phone number to submit a permit application by fax is 281-996-3200.  The phone number to submit a permit application by fax is (281) 482-6491.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The phone number to submit a permit application by fax is 281-996-3200. You can also submit your application by fax at (281) 482-6491.

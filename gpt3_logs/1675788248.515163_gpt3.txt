@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following. If you are not 100% sure of the answer, say "I don't know":
+
+To submit an alarm permit application, you will need to provide your contact information, the contact information for two emergency contacts, and the contact information for your alarm installation company and alarm monitoring service. You will also need to provide information about any special conditions at the alarm site, such as the presence of flammable materials or toxic substances, and the type of dog(s) present.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+To submit an alarm permit application, you will need to provide your contact information, the contact information for two emergency contacts, and the contact information for your alarm installation company and alarm monitoring service. You will also need to provide information about any special conditions at the alarm site, such as the presence of flammable materials or toxic substances, and the type of dog(s) present.

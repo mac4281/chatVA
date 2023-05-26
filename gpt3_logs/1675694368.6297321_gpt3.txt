@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+To submit your alarm application by fax, you will need to provide the following information: 1. The type of alarm being permitted 2. Whether the permit is new, renewal, or amendment to an existing permit on file 3. The alarm classification 4. The alarm address 5. The business name and address (if applicable) 6. The days and hours of business operation (if applicable) 7. The applicant's legal name, date of birth, home address, telephone number, alternate telephone number, business address, business telephone number, valid drivers license number, and e-mail address 8. The names and telephone numbers for two people who can be contacted at any time to come to the alarm location within thirty minutes and grant access to the alarm site and deactivate the alarm if necessary 9. The names, telephone numbers, addresses, and (if available) e-mail addresses for the alarm installation company and the alarm monitoring services that can send a representative to the alarm site within one hour and deactivate the alarm if necessary.  To submit your alarm application by fax, you will need to first select the Forms option from the left navigation panel. Next, select the Custom Input Forms option. This will expand the selection to include all of the custom input forms that are available. Select the form you wish to fax from this list. Once the form is open, you will need to enter the information into the fields provided. When you are finished, select the Fax option from the top of the screen. This will open a new window where you can enter the fax number and any other required information. Once you have entered all of the required information, select the Send Fax button to submit your application.  To submit your alarm application by fax, you will need to fill out the Alarm Permit Application form and include your payment information. The form can be found online at www.municode.com. Once you have completed the form, you can fax it to the City of Friendswood at 281-996-3200.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+To submit your alarm application by fax, you will need to fill out the Alarm Permit Application form and include your payment information. The form can be found online at www.municode.com. Once you have completed the form, you can fax it to the City of Friendswood at 281-996-3200.

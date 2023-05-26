@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+circumferential highway and Brittany Bay Boulevard. These two large projects will improve access to south FM 528 and make it more attractive to commercial developers.  The area that represents Friendswood's greatest economic potential is volunteerism. From its beginning, the volunteer spirit has flowed freely through the community, enriching many different aspects of city life. Volunteers serve in many capacities in the city, often interacting with the public on the city's behalf. This can be the first and lasting impression for a citizen dealing with the city. Volunteer-led projects have built parks and facilities that last for many years and serve to make our community unique.  The passage states that the majority of commercial property owners in Friendswood are individuals looking to sell their property to the highest bidder. The asking price of these properties ranges from $.80 to $25 per square foot. The types of prospective buyers and end users that have expressed the most interest in purchasing these properties are residential, retirement communities, and religious assemblies. The passage also states that the property owners unanimously agreed with the strategy. However, numerous opinions were given about why they believe the strategy will not be adhered to. The main concerns that were raised by the property owners were that the city has a reputation of residential neighborhoods fighting commercial development, that the city council is inconsistent and can be misleading, and that the city has a severe lack of infrastructure.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The city of Friendswood, Texas is embarking on two large construction projects - a circumferential highway and Brittany Bay Boulevard - in order to improve access to south FM 528 and make the area more attractive to commercial developers. Volunteerism has always been a strong value in the community, with volunteers serving in many capacities and often being the first point of contact for citizens dealing with the city. The city has great potential for economic growth, but there are concerns that the city council is inconsistent and that there is a lack of infrastructure.

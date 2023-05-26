@@ -1,0 +1,13 @@
+PROMPT:
+
+Use the following passage to give a detailed answer to the question as if you were a company assistant who is reserching answers to questions made by loan officers.   If you are not 100% sure of the answer, say "I'm not sure, can you rephrase the queston?
+
+According to Chapter 10, page 38 of VA Pamphlet 26-7, Revised, "VA Appraisers may not require advance payment from requesters or charge late fees unless approved in writing by VA."
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+According to Chapter 10, page 38 of VA Pamphlet 26-7, Revised, "VA Appraisers may not require advance payment from requesters or charge late fees unless approved in writing by VA." This means that if a loan officer requests an appraisal from a VA-approved appraiser, the appraiser cannot charge the loan officer for the appraisal unless they have prior approval from VA. If the loan officer does not request the appraisal in advance, the appraiser cannot charge a late fee.

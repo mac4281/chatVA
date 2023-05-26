@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The false alarm fees are as follows: -No fine will be assessed for the 1st, 2nd or 3rd false alarm in the preceding 12 month period. -A $50 fine will be assessed for the 4th or 5th false alarm in the preceding 12 month period. -A $75 fine will be assessed for the 6th or 7th false alarm in the preceding 12 month period. -A $100 fine will be assessed for the 8th or more other false alarms in the preceding 12 month period.  False alarm fees are incurred when an alarm system is activated and the police are dispatched, but no emergency is found. The fees are designed to cover the cost of dispatching the police and to deter false alarms.  The false alarm fees are the fees that the city will charge for commercial property that is rezoned to residential.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+-The first, second, and third false alarms in a 12-month period will not incur a fine. -The fourth and fifth false alarms in a 12-month period will incur a $50 fine. -The sixth and seventh false alarms in a 12-month period will incur a $75 fine. -The eighth or more false alarms in a 12-month period will incur a $100 fine. False alarm fees are charged when an alarm system is set off and the police are dispatched, but no emergency is found. The fees are designed to cover the cost of dispatching the police and to discourage false alarms. The false alarm fees for commercial property that is rezoned to residential will be the same as for any other property.

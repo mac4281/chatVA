@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The 4th is a smaller parcel of land that may be available for end users. As the city runs out of residentially zoned real estate, there will be ever mounting pressure to rezone commercial property to residential. The city cannot keep chipping away at the remaining commercially zoned real estate, especially the prime FM 528 commercial real estate, and expect to meet future financial demands without raising property tax rates. Commercial developments generate significantly more tax revenue and consume a fraction of the city services. Now is the time to adopt this strategy and implement it across all facets of the city.  The fourth economic development strategy is to provide funding and support for economic development toolbox.  The fourth is the "Idonotwishtoprovidethisinformationcheckbox."
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The fourth economic development strategy is to provide funding and support for economic development toolbox. The fourth is the "Idonotwishtoprovidethisinformationcheckbox."

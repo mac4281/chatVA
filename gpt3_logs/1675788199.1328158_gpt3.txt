@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following. If you are not 100% sure of the answer, say "I don't know":
+
+The commercial alarm application permit fee is $72.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The commercial alarm application permit fee is $72. This fee is for the permit that is required in order to install a commercial alarm system.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+The commercial or financial institution site alarm permit fee is $72.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The commercial or financial institution site alarm permit fee is $72. This fee is used to cover the costs of issuing and maintaining alarm permits, as well as responding to false alarms. The fee is assessed annually, and is due at the time of renewing the permit.
